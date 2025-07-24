@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Arel Smith</h1>
 <h3 align="center">A Junior Web Developer from Indonesia</h3>
 
+- 👤 17-year Visual Communication Design Student at Sekolah Bunda Mulia
+
 - 🌱 I’m currently learning **ReactJS, Express, Javascript thing**
 
 - 👨‍💻 All of my projects are available at [arelsmith.github.io](arelsmith.github.io)
