@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **ReactJS, Express, Javascript thing**
 
-- 👨‍💻 All of my projects are available at [arelsmith.github.io](arelsmith.github.io)
+- 👨‍💻 All of my projects are available at [here](arelsmith.my.id/projects)
 
 - 💬 Ask me about **Web Development**
 
