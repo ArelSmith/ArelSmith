@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Javascript, PHP**
 
-- 👨‍💻 All of my projects are available at [here](arelsmith.my.id/projects)
+- 👨‍💻 All of my projects are available at [here](http://arelsmith.my.id/projects)
 
 - 💬 Ask me about **Web Development**
 
