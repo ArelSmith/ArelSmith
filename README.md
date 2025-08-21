@@ -3,7 +3,7 @@
 
 - 👤 17-year Visual Communication Design Student at Sekolah Bunda Mulia
 
-- 🌱 I’m currently learning **ReactJS, Express, Javascript thing**
+- 🌱 I’m currently learning **Javascript, PHP**
 
 - 👨‍💻 All of my projects are available at [here](arelsmith.my.id/projects)
 
