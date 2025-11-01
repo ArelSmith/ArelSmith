@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arel Smith</h1>
-<h3 align="center">A Frontend Web Developer from Indonesia</h3>
+<h3 align="center">A Fullstack Web Developer from Indonesia</h3>
 
 - 👤 17-year Visual Communication Design Student at Sekolah Bunda Mulia
 
