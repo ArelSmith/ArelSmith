@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arel Smith</h1>
-<h3 align="center">A Fullstack Web Developer from Indonesia</h3>
+<h3 align="center">A Web Developer from Indonesia</h3>
 
-- 👤 18-year Visual Communication Design Student at Sekolah Bunda Mulia
+- 👤 18-year Web Developer focusing on Laravel & Next.js
 
 - 🌱 I’m currently learning **Javascript**
 
